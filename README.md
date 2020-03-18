@@ -6,7 +6,6 @@ QP-bundle provides all QP real-time embedded frameworks (RTEFs) and
 all the accompanying host-based tools bundled together in a single,
 streamlined installation.
 
-
 ## Downloading QP-bundle
 You downlod QP-bundle from the **releases** section of the repository:
 
@@ -43,7 +42,6 @@ qp-bundle installation directory (C:\qp or $HOME\qp by default)
 > NOTE: A description of each component is provided in the README.md
 files inside the project sub-directories.
 
-
 ---------------------------------------------------------------------------
 ### Version Compatibility and Revision History
 
@@ -53,39 +51,31 @@ which is provided in the component sub-directory.
 The revision history of each component is provided in the Reference
 Manual for each component (see the next section). 
 
-
 ---------------------------------------------------------------------------
 ### Reference Manuals
-
 - https://www.state-machine.com/qpc     - QP/C Reference Manual
 - https://www.state-machine.com/qpcpp   - QP/C++ Reference Manual
 - https://www.state-machine.com/qpn     - QP-nano Reference Manual
 - https://www.state-machine.com/qm      - QM Reference Manual
 - https://www.state-machine.com/qtools  - QTools Reference Manual
 
-
 ---------------------------------------------------------------------------
 ### Help and Support
-
 Community support for the project is provided at:
 - https://sourceforge.net/p/qpc/discussion/668726
 
 Commercial technical support is described at:
 - https://www.state-machine.com/licensing/#Support
 
-
 ---------------------------------------------------------------------------
 ### Bug Reports and Feature Requests
-
 - Bug reports:      https://sourceforge.net/p/qpc/bugs
 - Feature requests: https://sourceforge.net/p/qpc/feature-requests/
 
 Please use the "Create Ticket" menu.
 
-
 ---------------------------------------------------------------------------
 ### Contact Information:
-
 - https://www.state-machine.com
-- mailto:info@state-machine.com
+- info@state-machine.com
 
